@@ -3,7 +3,7 @@ Thesis
 BAB I
 PENDAHULUAN
 
-Aplikasi Pada Penggunaan Sistem Presensi Online Untuk Tenaga Kerja Non Organik (TKNO) Untuk Mendukung Master Plan ERP Dengan Menggunakan Metode Face Recognition di Phonska I Dep. Produksi IIA PT. Petrokimia Gresik
+Pengembangan Aplikasi Pada Penggunaan Sistem Presensi Online Bagi Tenaga Kerja Non Organik (TKNO) Untuk Mendukung Master Plan ERP Dengan Menggunakan Metode Face Recognition di Phonska I Dep. Produksi IIA PT. Petrokimia Gresik
 
 1.	Latar Belakang 
 Di era persaingan global yang sangat kompetitif ini, perusahaan dituntut menggunakan teknologi informasi untuk mendukung proses bisnisnya. Strategi teknologi informasi mengacu pada investasi spesifik dalam bentuk suatu system, seperti system Enterprise Resource Planning (ERP).
