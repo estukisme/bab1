@@ -26,7 +26,4 @@ b.	Pengolahan foto wajah dilakukan dalam aplikasi client atau smartphone milik t
 Dari permasalahan yang telah di identifikasi, Tujuan yang ingin dicapai dari pembuatan system presensi adalah untuk menertibkan para pekerja TKNO yang bekerja di area phonska I, dikarenakan banyak terjadi pelanggaran seperti datang telat dan pulang cepat dan tidak termonitoring dengan baik oleh atasan.
 
 5.	Manfaat/Kontribusi Penelitian
-Adapun manfaat yang didapatkan pada penelitian ini adalah bisa memperbaharui system kehadiran pekerja dari system manual melalui tanda tangan pada kertas kehadiran menjadi system online dengan menggunakan metode deteksi foto wajah pekerja sehingga bisa mentertibkan jadwal para pekerja di area phonska dengan jam  datang dan pulang dengan tertib dan bisa membantu proses monitoring dengan baik oleh atasan dan bisa memberikan punishment bagi yang melakukan pelanggaran.  
- 
- 
-![image](https://github.com/estukisme/bab1/assets/14360514/26402060-813a-4e91-b212-a71a683ec415)
+Adapun manfaat yang didapatkan pada penelitian ini adalah bisa memperbaharui system kehadiran pekerja dari system manual melalui tanda tangan pada kertas kehadiran menjadi system online dengan menggunakan metode deteksi foto wajah pekerja sehingga bisa mentertibkan jadwal para pekerja di area phonska dengan jam  datang dan pulang dengan tertib dan bisa membantu proses monitoring dengan baik oleh atasan dan bisa memberikan punishment bagi yang melakukan pelanggaran.
