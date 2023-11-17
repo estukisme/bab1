@@ -1,6 +1,6 @@
 # bab1
-Thesis
-BAB I
+Thesis<br>
+BAB I<br>
 PENDAHULUAN
 
 Pengembangan Aplikasi Pada Penggunaan Sistem Presensi Online Bagi Tenaga Kerja Non Organik (TKNO) Untuk Mendukung Master Plan ERP Dengan Menggunakan Metode Face Recognition di Phonska I Dep. Produksi IIA PT. Petrokimia Gresik
