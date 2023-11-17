@@ -4,7 +4,7 @@ BAB I<br>
 PENDAHULUAN
 
 Pengembangan Aplikasi Pada Penggunaan Sistem Presensi Online Bagi Tenaga Kerja Non Organik (TKNO) Untuk Mendukung Master Plan ERP Dengan Menggunakan Metode Face Recognition di Phonska I Dep. Produksi IIA PT. Petrokimia Gresik
-
+<div class="text-justify">
 1.	Latar Belakang<br> 
 Di era persaingan global yang sangat kompetitif ini, perusahaan dituntut menggunakan teknologi informasi untuk mendukung proses bisnisnya. Strategi teknologi informasi mengacu pada investasi spesifik dalam bentuk suatu system, seperti system Enterprise Resource Planning (ERP).<br>
 Sistem ERP adalah sebuah konsep untuk merencanakan dan mengelola sumber daya perusahaan meliputi dana, manusia, mesin, suku cadang, waktu, material dan kapasitas yang berpengaruh luas mulai dari manajemen paling atas hingga operasional di sebuag perusahaan agar dapat dimanfaatkan secara optimal untuk menghasilkan nilai tambah bagi seluruh pihak yang berkepentingan (stake holder) atas perusahaan tersebut.<br>
@@ -27,3 +27,4 @@ Dari permasalahan yang telah di identifikasi, Tujuan yang ingin dicapai dari pem
 
 5.	Manfaat/Kontribusi Penelitian<br>
 Adapun manfaat yang didapatkan pada penelitian ini adalah bisa memperbaharui system kehadiran pekerja dari system manual melalui tanda tangan pada kertas kehadiran menjadi system online dengan menggunakan metode deteksi foto wajah pekerja sehingga bisa mentertibkan jadwal para pekerja di area phonska dengan jam  datang dan pulang dengan tertib dan bisa membantu proses monitoring dengan baik oleh atasan dan bisa memberikan punishment bagi yang melakukan pelanggaran.
+</div>
