@@ -17,10 +17,10 @@ System presensi online ini dipilih, karena lebih efektif di banding presensi man
 
 2.	Rumusan Masalah 
 Berdasarkan latar belakang di atas didapatkan sebuah permasalahan sebagai berikut : 
-  a.	Bagaimana membangun system aplikasi presensi bagi Tenaga Kerja Non Organik di lingkungan Phonska I.
+  a.	Bagaimana membangun system aplikasi presensi bagi Tenaga Kerja Non Organik di lingkungan Phonska I.<br>
   b.	Bagaimana cara menerapkan pustaka (library) face recognition with deep learning pada perancangan system presensi untuk pencocokan wajah?
 3.	Batasan Masalah 
-  a.	Input perangkat lunak berupa pengambilan foto wajah dari smartphone milih pekerja kemudian foto wajah dikirimkan ke server untuk disimpan.
+  a.	Input perangkat lunak berupa pengambilan foto wajah dari smartphone milih pekerja kemudian foto wajah dikirimkan ke server untuk disimpan.<br>
   b.	Pengolahan foto wajah dilakukan dalam aplikasi client atau smartphone milik tenaga kerja.
 4.	Tujuan 
 Dari permasalahan yang telah di identifikasi, Tujuan yang ingin dicapai dari pembuatan system presensi adalah untuk menertibkan para pekerja TKNO yang bekerja di area phonska I, dikarenakan banyak terjadi pelanggaran seperti datang telat dan pulang cepat dan tidak termonitoring dengan baik oleh atasan.
